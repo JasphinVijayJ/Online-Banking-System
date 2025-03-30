@@ -24,7 +24,7 @@ Search Users by Account Number
 
 Retrieve Transactions for Specific Users
 
-Technologies Used
+**Technologies Used**
 
 Java (Backend Development)
 
