@@ -55,7 +55,9 @@ CREATE DATABASE banking_system;
 5. Update the database configuration in the application.properties file:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/banking_system
+
 spring.datasource.username=root
+
 spring.datasource.password=yourpassword
 
 6. Run the application:
